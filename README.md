@@ -13,10 +13,10 @@ Hi! My name is Kassim Amir, a student undertaking a BS in Information Technology
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,git,docker,aws,gitlab)](https://skillicons.dev)
   
 ###    MY STATS
-[![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=koja-amir&show=prs_merged_percentage,reviews&show_icons=true&theme=transparent)](https://github.com/koja-amir/github-readme-stats)
+[![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kojaamir95&show=prs_merged_percentage,reviews&show_icons=true&theme=transparent)](https://github.com/kojaamir95/github-readme-stats)
 
 ###    PROGRAMMING LANGUAGES
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koja-amir&layout=donut&theme=transparent&show_icons=true)](https://github.com/koja-amir/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kojaamir95&layout=donut&theme=transparent&show_icons=true)](https://github.com/kojaamir95/github-readme-stats)
 
 ###    CONTACTS
   [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/koja-amir/) <br>
