@@ -13,16 +13,7 @@ Hi! My name is Kassim Amir, a student undertaking a BS in Information Technology
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,git,docker,aws,gitlab)](https://skillicons.dev)
   
 ###    MY STATS
-[![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kojaamir95&show=prs_merged_percentage,reviews&show_icons=true&theme=transparent)](https://github.com/kojaamir95/github-readme-stats)
+[![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazynets1&show=prs_merged_percentage,reviews&show_icons=true&theme=transparent)](https://github.com/kojaamir95/github-readme-stats)
 
 ###    PROGRAMMING LANGUAGES
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kojaamir95&layout=donut&theme=transparent&show_icons=true)](https://github.com/kojaamir95/github-readme-stats)
-
-###    CONTACTS
-  [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/koja-amir/) <br>
-  [![](https://skillicons.dev/icons?i=githubactions)](https://gentle-meadow-0b6cbe11e.5.azurestaticapps.net/)
-
-
-### MY RESUME.
-  Created from LinkedIn resume workshop and deployed to GitHub pages. <br>
-  Includes my experience and design abilities.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazynets1&layout=donut&theme=transparent&show_icons=true)](https://github.com/kojaamir95/github-readme-stats)
